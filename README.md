@@ -24,6 +24,15 @@ No kit needed: these run your normal Steam game and connect to Julian's dedicate
 | **Factorio** (base game) | 34197 | Multiplayer → Connect to address → `<address>:34197`, then the game password |
 | **Don't Starve Together** | 10999 | Browse Games → search "Poosics" (tick "show password-protected") |
 
+## Silent Hill co-op (bring your own game)
+
+| Game | What you need | How to join |
+|---|---|---|
+| **Silent Hill 1** (real co-op, 2-4 players as Harry + Lisa) | [Silent Hill: United v0.0.5](https://github.com/Depmify/Silent-Hill-United-Public/releases/tag/v0.0.5) + your own Silent Hill 1 (USA) `.bin` in `Data\ROM\` | Run `Launcher.exe` → MULTIPLAYER GAME → ONLINE → join Poosic's room (marked `Wait`). No IP needed. |
+| **Silent Hill 2 (2024)** (ghost mode: you see each other + chat, you don't share enemies/items/story) | Your own SH2 (2024) + [GhostCoop 0.1.0-alpha](https://www.nexusmods.com/site/mods/2119) (free Nexus account) | Run `GhostCoop.exe` → Game: Silent Hill 2 Remake → Mode: **Client** → Server IP: posted in Discord, Port `4200`. |
+
+Everyone needs the **same version** of the mod as Poosic, or you won't see each other. Game files are never shared here.
+
 More games are coming. Julian's bot announces each one in Discord.
 
 ## Licenses
